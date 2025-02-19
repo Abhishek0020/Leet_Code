@@ -1,4 +1,5 @@
 /* Write your PL/SQL query statement below */
 select euid.unique_id ,eid.name
 from employees eid  full outer join employeeuni  euid
-on  euid.id=eid.id;
+on  euid.id=eid.id
+where eid.name is not null;
