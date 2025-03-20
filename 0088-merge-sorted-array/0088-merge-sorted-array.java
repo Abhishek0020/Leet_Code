@@ -3,12 +3,8 @@ class Solution {
      
        for(int i=0;i<n;i++){
             nums1[m]=nums2[i];
-            m++;
+            m=m+1;
        }
-        Arrays.sort(nums1);
-        
-    
+        Arrays.sort(nums1);  
     }
-    
-    
 }
