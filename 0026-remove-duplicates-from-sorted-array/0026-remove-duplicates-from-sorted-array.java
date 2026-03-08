@@ -1,16 +1,12 @@
-class Solution {
-   public  int removeDuplicates(int nums[]) {
-	int count=0;
 
-    for(int i=0;i<nums.length;i++){
-        if(i<nums.length-1 && nums[i]==nums[i+1]){
-            continue;
+import java.util.Arrays;
+class Solution {
+    public int removeDuplicates(int[] nums) {
+
+        int[] distinct=Arrays.stream(nums).distinct().sorted().toArray();
+        for(int i=0;i<distinct.length;i++){
+            nums[i]=distinct[i];
         }
-        else{
-            nums[count]=nums[i];
-            count++;
-        }
+        return distinct.length;
     }
-    return count;
-}
 }
