@@ -1,15 +1,14 @@
 class Solution {
-  public int missingNumber(int[] nums) {
-        int n = nums.length;  // Number of elements in the array
+    public int missingNumber(int[] nums) {
+        int n=nums.length;
+        int expsum=n*(n+1)/2;
+        int actsum=0;
 
-        // Expected sum of numbers from 0 to n
-        int expectedSum = n * (n + 1) / 2;
-
-        int actualSum = 0;
-        for (int num : nums) {
-            actualSum += num;  // Calculate actual sum of elements in the array
+        for(int num:nums){
+            actsum +=num;
         }
 
-        return expectedSum - actualSum; // The difference is the missing number
+        return expsum-actsum;
+        
     }
 }
