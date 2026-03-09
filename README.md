@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/Abhishek0020/Leet_Code/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Abhishek0020/Leet_Code/tree/main/0268-missing-number/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhishek0020/Leet_Code/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Number Theory
@@ -43,5 +44,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/Abhishek0020/Leet_Code/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Abhishek0020/Leet_Code/tree/main/0268-missing-number/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/Abhishek0020/Leet_Code/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
