@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/Abhishek0020/Leet_Code/tree/main/0242-valid-anagram/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/Abhishek0020/Leet_Code/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhishek0020/Leet_Code/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Abhishek0020/Leet_Code/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/Abhishek0020/Leet_Code/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
