@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Abhishek0020/Leet_Code/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhishek0020/Leet_Code/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0268-missing-number](https://github.com/Abhishek0020/Leet_Code/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Abhishek0020/Leet_Code/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Abhishek0020/Leet_Code/tree/main/0001-two-sum/) | Easy |
 | [0242-valid-anagram](https://github.com/Abhishek0020/Leet_Code/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Abhishek0020/Leet_Code/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Abhishek0020/Leet_Code/tree/main/0349-intersection-of-two-arrays/) | Easy |
