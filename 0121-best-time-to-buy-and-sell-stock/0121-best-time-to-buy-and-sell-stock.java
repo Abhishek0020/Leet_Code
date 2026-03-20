@@ -1,18 +1,17 @@
-public class Solution {
+class Solution {
     public int maxProfit(int[] prices) {
-       int n=prices.length;
-       int max_profit=0;
-       int buy_price=prices[0];
-       for(int i=1;i<n;i++){
-        int curr_profit=prices[i]-buy_price;
-
-        if(curr_profit>max_profit){
-            max_profit=curr_profit;
+        int max_Profit=0;
+        int buy=Integer.MAX_VALUE;
+        for(int i=0;i<prices.length;i++){
+            if(prices[i]<buy){
+                buy=prices[i];//buy stock here
+            }
+            else{
+                int profit=prices[i]-buy;
+                max_Profit=Math.max(max_Profit,profit);
+            }
         }
-        if(prices[i]<buy_price){
-            buy_price=prices[i];
-        }
-       }
-       return max_profit;
+        return max_Profit;
+        
     }
 }
