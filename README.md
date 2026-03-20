@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Abhishek0020/Leet_Code/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhishek0020/Leet_Code/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhishek0020/Leet_Code/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0268-missing-number](https://github.com/Abhishek0020/Leet_Code/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Abhishek0020/Leet_Code/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhishek0020/Leet_Code/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -61,4 +62,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/Abhishek0020/Leet_Code/tree/main/0231-power-of-two/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhishek0020/Leet_Code/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
