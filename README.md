@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Abhishek0020/Leet_Code/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/Abhishek0020/Leet_Code/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/Abhishek0020/Leet_Code/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhishek0020/Leet_Code/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Abhishek0020/Leet_Code/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0053-maximum-subarray](https://github.com/Abhishek0020/Leet_Code/tree/main/0053-maximum-subarray/) | Medium |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Abhishek0020/Leet_Code/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/Abhishek0020/Leet_Code/tree/main/0018-4sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/Abhishek0020/Leet_Code/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Abhishek0020/Leet_Code/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Abhishek0020/Leet_Code/tree/main/0268-missing-number/) | Easy |
@@ -55,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Abhishek0020/Leet_Code/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/Abhishek0020/Leet_Code/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhishek0020/Leet_Code/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Abhishek0020/Leet_Code/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Abhishek0020/Leet_Code/tree/main/1768-merge-strings-alternately/) | Easy |
